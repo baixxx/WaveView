@@ -3,7 +3,7 @@
 
 
 ## 效果图如下:
-![](https://github.com/baixxx/WaveView/tree/master/resource/waveview.gif)  
+![image]](https://github.com/baixxx/WaveView/tree/master/resource/waveview.gif)  
 
 
 
@@ -42,8 +42,8 @@ allprojects {
 ### 第 2 步、在应用的 build.gradle 中添加：
 ```
 dependencies {
-	        compile 'com.github.baixxx:VerticalMarqueeView:v1.3'
+	        implementation 'com.github.baixxx:WaveView:master'
 	}
  ```
  
-[![](https://jitpack.io/v/baixxx/VerticalMarqueeView.svg)](https://jitpack.io/#baixxx/VerticalMarqueeView)
+[![](https://jitpack.io/v/baixxx/WaveView.svg)](https://jitpack.io/#baixxx/WaveView)
