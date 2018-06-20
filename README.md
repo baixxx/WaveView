@@ -3,7 +3,7 @@
 
 
 ## 效果图如下:
-![](https://github.com/baixxx/WaveLineView/raw/master/resource/waveview.gif)  
+![](https://github.com/baixxx/WaveView/tree/master/resource/waveview.gif)  
 
 
 
